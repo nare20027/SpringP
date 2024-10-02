@@ -27,7 +27,7 @@ import com.kh.spring.common.exception.CommException;
 
 @Controller
 public class BoardController {
-
+ 
 	@Autowired
 	private BoardService boardService;
 	
