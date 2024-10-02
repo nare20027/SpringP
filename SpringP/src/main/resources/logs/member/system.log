@@ -1,0 +1,10 @@
+21-10-05 12:00:40 [INFO ] ContextLoader.initWebApplicationContext{271} - Root WebApplicationContext: initialization started
+21-10-05 12:00:45 [INFO ] ContextLoader.initWebApplicationContext{307} - Root WebApplicationContext initialized in 4767 ms
+21-10-05 12:00:45 [INFO ] DispatcherServlet.initServletBean{525} - Initializing Servlet 'appServlet'
+21-10-05 12:00:50 [INFO ] DispatcherServlet.initServletBean{547} - Completed initialization in 5325 ms
+21-10-05 12:00:59 [DEBUG] MemberController.enrollForm{212} - ========== START ==========
+21-10-05 12:00:59 [INFO ] MemberController.enrollForm{213} - ========== START info==========
+21-10-05 12:11:51 [INFO ] ContextLoader.initWebApplicationContext{271} - Root WebApplicationContext: initialization started
+21-10-05 12:11:58 [INFO ] ContextLoader.initWebApplicationContext{307} - Root WebApplicationContext initialized in 7504 ms
+21-10-05 12:11:59 [INFO ] DispatcherServlet.initServletBean{525} - Initializing Servlet 'appServlet'
+21-10-05 12:12:04 [INFO ] DispatcherServlet.initServletBean{547} - Completed initialization in 5087 ms
